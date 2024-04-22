@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="styles.css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>即日电影</title>
+</head>
+
+<body>
+			<div class="box">
+            <div class="box1">
+          <a href="tutu1.html"><span class="name"><span class="mingzi"></span>百老汇</span></a>				            
+            <div class="login"><a href="login.html"><span class="mingzi">登录/</span></a></div>
+            <div class="exit"><a href="homepage.html"><span class="mingzi">退出</span></a></div>
+          <div class="search1">
+                    <input type="text" class="input" placeholder="找影视剧、影人、影院">
+          </div>
+          <div class="search2">
+                    <input class="submit" type="submit" value="搜索">
+          </div>
+          </div>
+          <div class="one">
+                <ul>
+                    <li><a href="homepage.html" class="three"><span class="mingzi">首页</span></a></li>
+                    <li><a href="movie.html" class="three"><span class="mingzi">电影</span></a></li>
+                    <li><a href="yingyuan.html" class="three "><span class="mingzi">影院</span></a></li>
+                    <li><a href="bangdan.html" class="three active"><span class="mingzi">榜单</span></a></li>
+                </ul>
+                </div>
+                <div class="box2">
+                <span><a href="#" class="two active"><span class="mingzi">热映口碑榜</span></a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#">
+                  <span class="sort4"><span class="mingzi">最受期待榜</span></a><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="sort4"><span class="mingzi">国内票房榜</span></a></div>
+                <div class="box3">
+                <div class="bg">
+                <div class="sheet">
+                <span class="top">TOP</span>
+                <p class="tp"></p>
+                <p><a href="毒舌大狀.jpg"><span class="mingzi">毒舌大狀</span></a></p>
+                <img src="毒舌大狀.jpg" alt="圖片描述">
+                <p><a href="飯氣攻心.jpg"><span class="mingzi">飯氣攻心</span></a></p>
+                <img src="飯戲攻心.jpg" alt="圖片描述">
+                <p><a href="阿凡達水之道.jpg"><span class="mingzi">阿凡達：水之道</span></a></p>
+                <img src="阿凡达水之道.jpg" alt="圖片描述">
+                <p><a href="鈴芽之旅.jpg"><span class="mingzi">鈴芽之旅</span></a></p>
+                <img src="铃芽之旅.jpg" alt="圖片描述">
+                </div>
+                </div>
+                </div>
+
+        <p>
+          <a href="#"><span class="mingzi">xxx</span></a>
+        </p>
+        <p>
+           <a href="#"><span class="mingzi">百老匯影院</span></a> 
+        </p>
+            </div>
+                
+          </div>
+</body>
+</html>
